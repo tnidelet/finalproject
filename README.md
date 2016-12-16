@@ -1,1 +1,1 @@
-# finalproject
+This repositorie containt all the code for the capstone project at the final of the [Data Science specialization](https://www.coursera.org/specializations/jhu-data-science) of John Hopkins in [Coursera](https://www.coursera.org)
